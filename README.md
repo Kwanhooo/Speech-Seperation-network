@@ -1,7 +1,7 @@
 # Speech-Seperation-network
 ### 🏡 About
 
-​	本仓库的源代码为语音分离项目的**机器学习**部分，使用 [Conv-TasNet](https://ieeexplore.ieee.org/document/8707065) 模型进行开发。
+​	本仓库的源代码为语音分离项目的**机器学习**部分，使用 ***Conv-TasNet*** 模型进行开发。
 
 > [Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation](https://ieeexplore.ieee.org/document/8707065)
 >
