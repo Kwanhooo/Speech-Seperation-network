@@ -31,3 +31,8 @@
 
 - SI-SNRi
 - SDRi
+
+---
+
+### 📛 License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKwanhooo%2FSpeech-Seperation-network.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKwanhooo%2FSpeech-Seperation-network?ref=badge_large)
